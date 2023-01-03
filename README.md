@@ -1,8 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/108541991/204140694-95e4c270-54ae-4dcc-bfd5-b16b2d54611e.png)
 
 
-### Hello there! 👋
-
 - 🌱 My name is Natnael Bizuneh, I'm a Software engineering student at ALX School and Computer Science and Engineering student at Adama Science And Technology University.
 - 🌱 I have been studying low-level programming, high-level
 programming, system engineering and devops, and web
@@ -71,7 +69,7 @@ methodology based on peer-learning and projects.
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NattyXO&" alt="NattyXO" /></p>
 <br>
 
-<div align="center">Connect with me</div>  
+###<div align="center">Connect with me</div>  
 <div align="center">
 <a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
