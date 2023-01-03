@@ -3,7 +3,7 @@
 
 ### Hello there! 👋
 
-- 🌱 My name is Mariem Matri, I'm a Software engineering student at Holberton School and Computer Science and Engineering student at Adama Science And Technology University.
+- 🌱 My name is Natnael Bizuneh, I'm a Software engineering student at ALX School and Computer Science and Engineering student at Adama Science And Technology University.
 - 🌱 I have been studying low-level programming, high-level
 programming, system engineering and devops, and web
 stack programming (Front-end & Back-end) using a
