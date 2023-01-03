@@ -11,29 +11,6 @@ methodology based on peer-learning and projects.
 - ✨ I'm curious, adaptable, a fast learner and I love developing my skills.
 - 📝 [Here is my Curriculum Vitae](/MY_CV.pdf)
 
-## <div align="center">Connect with me</div>  
-<div align="center">
-<a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/NattyXO" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/c/AhaduTech" target="_blank">
-<img src=https://img.shields.io/youtube/channel/subscribers/UCZ0kLcM30JbqMDzqjjdRibg?style=social alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/ahadu_tech/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/20922547/natnael-bizuneh" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br>  
-<br>
-
-
 
 ### Languages and Tools that I have been learning:
 
@@ -92,4 +69,25 @@ methodology based on peer-learning and projects.
 <br>
 <br>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NattyXO&" alt="NattyXO" /></p>
+<br>
+## <div align="center">Connect with me</div>  
+<div align="center">
+<a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/NattyXO" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/c/AhaduTech" target="_blank">
+<img src=https://img.shields.io/youtube/channel/subscribers/UCZ0kLcM30JbqMDzqjjdRibg?style=social alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/ahadu_tech/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/20922547/natnael-bizuneh" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+<br>  
 <br>
