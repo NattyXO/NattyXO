@@ -3,7 +3,7 @@
 
 ### Hello there! 👋
 
-- 🌱 My name is Natnael Bizuneh, I'm a Software engineering student at ALX School and Computer Science and Engineering student at Adama Science And Technology University.
+- 🌱 My name is Mariem Matri, I'm a Software engineering student at Holberton School and Computer Science and Engineering student at Adama Science And Technology University.
 - 🌱 I have been studying low-level programming, high-level
 programming, system engineering and devops, and web
 stack programming (Front-end & Back-end) using a
@@ -83,3 +83,8 @@ methodology based on peer-learning and projects.
 <a href="https://github.com/NattyXO/alx-system_engineering-devops">
   <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 </a>
+
+
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NattyXO&" alt="NattyXO" /></p>
+<br>
