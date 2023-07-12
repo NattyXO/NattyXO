@@ -1,12 +1,5 @@
 ![github-header-image](https://user-images.githubusercontent.com/108541991/204140694-95e4c270-54ae-4dcc-bfd5-b16b2d54611e.png)
 
-
-- 🌱 Hi there! I'm Natnael Bizuneh, a software engineering and computer science student with a passion for learning and improving my skills. I'm currently studying at ALX School and Adama Science and Technology University, where I've had the opportunity to learn about low-level and high-level programming, system engineering, devops, and web stack programming. 
-- 🌱 I'm a fast learner and love tackling new challenges, and I'm always looking for ways to improve and grow as a developer.
-- 🌱 If you're interested in collaborating or just want to chat about programming, don't hesitate to reach out!
-- 📝 [Here is my Curriculum Vitae](/MY_CV.pdf)
-
-
 ### Languages and Tools that I have been learning:
 
 <a href="https://github.com/NattyXO/alx-low_level_programming">
