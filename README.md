@@ -26,9 +26,6 @@
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
 <a href="">
-  <img align="left" alt="jquery" width="50px" src="https://generic-ui.com/assets/images/platform-logos/jquery.logo.jpg" />
-</a>
-<a href="">
   <img align="left" alt="es6" width="50px" src="https://codus.acyclique.com/wp-content/uploads/2017/11/ES6-JS.png" />
 </a>
 <a href="https://nodejs.org/">
@@ -40,14 +37,6 @@
 <a href="https://www.mongodb.com/">
   <img align="left" alt="mongodb" width="50px" height="50px" src="https://www.codeline.fr/wp-content/uploads/2018/03/mongo-db-design.png" />
 </a>
-<a href="https://github.com/NattyXO/alx-zero_day">
-  <img align="left" alt="git" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</a>
-<a href="https://github.com/NattyXO/alx-system_engineering-devops">
-  <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-</a>
-
-
 <br>
 <br>
 <br>
