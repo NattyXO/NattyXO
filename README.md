@@ -52,7 +52,7 @@ And yes I am not the person on the profile
 <a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/NattyXO" target="_blank">
+<a href="https://www.tiktok.com/@ahadu_tech_official" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/c/AhaduTech" target="_blank">
