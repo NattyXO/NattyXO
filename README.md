@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://export-download.canva.com/vQFQQ/DAF3N1vQFQQ/12/0/0001-1149956364699488601.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20231217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231217T072008Z&X-Amz-Expires=6195&X-Amz-Signature=dee8c9fbd82a787130640f6cfbd7074c767b0b33ed4e521d7a0de805cabcfd69&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Add%2520a%2520heading.png&response-expires=Sun%2C%2017%20Dec%202023%2009%3A03%3A23%20GMT" height="200" width="1600"/>
+  <img src="https://export-download.canva.com/vQFQQ/DAF3N1vQFQQ/12/0/0001-1149956364699488601.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20231217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231217T072008Z&X-Amz-Expires=6195&X-Amz-Signature=dee8c9fbd82a787130640f6cfbd7074c767b0b33ed4e521d7a0de805cabcfd69&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Add%2520a%2520heading.png&response-expires=Sun%2C%2017%20Dec%202023%2009%3A03%3A23%20GMT" height="300" width="1600"/>
 </p>
 
 A rising Software Engineer/Computer Scientist
