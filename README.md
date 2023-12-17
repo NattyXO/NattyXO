@@ -25,27 +25,17 @@ And yes I am not the person on the profile
 <a href="https://www.w3schools.com/css/">
   <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
-<a href="">
-  <img align="left" alt="sass" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" />
-</a>
-<a href="https://github.com/MatriMariem/holbertonschool-web_front_end">
-  <img align="left" alt="bootstrap" width="50px" height="50px" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
 <a href="">
   <img align="left" alt="es6" width="50px" src="https://codus.acyclique.com/wp-content/uploads/2017/11/ES6-JS.png" />
 </a>
-<a href="https://nodejs.org/">
-  <img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</a>
+
 <a href="">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
-<a href="https://www.mongodb.com/">
-  <img align="left" alt="mongodb" width="50px" height="50px" src="https://www.codeline.fr/wp-content/uploads/2018/03/mongo-db-design.png" />
-</a>
+
 <br>
 <br>
 <br>
