@@ -1,4 +1,4 @@
-![github-header-image](https://www.canva.com/design/DAF3N1vQFQQ/view)
+![github-header-image]([https://www.canva.com/design/DAF3N1vQFQQ/view](https://www.canva.com/design/DAF3N1vQFQQ/GyVHOiDWwrFgGxBy-FYkGg/view?utm_content=DAF3N1vQFQQ&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
 A rising Software Engineer/Computer Scientist
 
