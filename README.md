@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/108541991/204140694-95e4c270-54ae-4dcc-bfd5-b16b2d54611e.png)
+![github-header-image](https://www.canva.com/design/DAF3N1vQFQQ/view)
 
 A rising Software Engineer/Computer Scientist
 
