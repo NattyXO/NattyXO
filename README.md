@@ -10,7 +10,7 @@ And yes I am not the person on the profile
   <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 </a>
 <a href="https://github.com/NattyXO/Barcode-QR-Generator">
-  <img align="left" alt="C#" width="50px" src="https://iconscout.com/free-3d-illustration/c-sharp-5728487.png" />
+  <img align="left" alt="C#" width="50px" src="https://iconscout.com/free-3d-illustration/c-sharp-5728487" />
 </a>
 
 <a href="https://github.com/NattyXO/alx-higher_level_programming">
