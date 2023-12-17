@@ -54,8 +54,8 @@ And yes I am not the person on the profile
 <a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.tiktok.com/@ahadu_tech_official" target="_blank">
-<img src=https://cdn3d.iconscout.com/3d/free/thumb/free-tiktok-6343399-5221068.png?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <a href="https://www.tiktok.com/@ahadu_tech_official">
+  <img align="left" alt="Tiktok" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-tiktok-6343399-5221068.png" />
 </a>
 <a href="https://www.youtube.com/c/AhaduTech" target="_blank">
 <img src=https://img.shields.io/youtube/channel/subscribers/UCZ0kLcM30JbqMDzqjjdRibg?style=social alt=twitter style="margin-bottom: 5px;" />
