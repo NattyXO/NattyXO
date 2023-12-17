@@ -25,16 +25,16 @@ And yes I am not the person on the profile
 <a href="https://github.com/NattyXO/Webstack---Portfolio-Project">
   <img align="left" alt="PHP" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-php-9294883-7578026.png" />
 </a>
-<a href="https://www.w3.org/html/">
+<a href="https://github.com/NattyXO/AirBnB_clone_v3">
   <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
-<a href="https://www.w3schools.com/css/">
+<a href="https://github.com/NattyXO/AirBnB_clone_v3">
   <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://github.com/NattyXO/alx-backend-javascript">
   <img align="left" alt="JS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
-<a href="">
+<a href="https://github.com/NattyXO/alx-backend-javascript">
   <img align="left" alt="es6" width="50px" src="https://codus.acyclique.com/wp-content/uploads/2017/11/ES6-JS.png" />
 </a>
 
