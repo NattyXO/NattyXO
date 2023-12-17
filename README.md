@@ -5,7 +5,6 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF3N1vQFQQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF3N1vQFQQ&#x2F;view?utm_content=DAF3N1vQFQQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Add a heading</a> by Natty xo2018
 
 A rising Software Engineer/Computer Scientist
 
