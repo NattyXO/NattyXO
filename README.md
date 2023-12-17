@@ -9,6 +9,9 @@ And yes I am not the person on the profile
 <a href="https://github.com/NattyXO/alx-low_level_programming">
   <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 </a>
+<a href="https://github.com/NattyXO/Barcode-QR-Generator">
+  <img align="left" alt="C#" width="50px" src="https://iconscout.com/free-3d-illustration/c-sharp-5728487.png" />
+</a>
 
 <a href="https://github.com/NattyXO/alx-higher_level_programming">
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
