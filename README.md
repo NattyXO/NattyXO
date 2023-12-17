@@ -76,6 +76,8 @@
 <br>  
 <br><br>  
 <br>
+<br>
+
 **:zap: GitHub Profile Stats**
 <p align="center">
 <a href="https://github.com/nattyxo">
