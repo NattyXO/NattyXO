@@ -1,15 +1,18 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<p align="center">
-  <img src="https://export-download.canva.com/vQFQQ/DAF3N1vQFQQ/12/0/0001-1149956364699488601.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20231217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231217T072008Z&X-Amz-Expires=6195&X-Amz-Signature=dee8c9fbd82a787130640f6cfbd7074c767b0b33ed4e521d7a0de805cabcfd69&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Add%2520a%2520heading.png&response-expires=Sun%2C%2017%20Dec%202023%2009%3A03%3A23%20GMT" height="300" width="1600"/>
-</p>
 
-A rising Software Engineer/Computer Scientist
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Natnael - Ahadu Tech</h1>
+- 🔭 A rising Software Engineer/Computer Scientist
+<br>
+- 🤝 I’m available for Freelancing | Project | Startup.
 
-And yes I am not the person on the profile
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake"/></a>
+</div>
 
-### Languages and Tools that I have been learning:
+### Languages and Tools
 
 <a href="https://github.com/NattyXO/alx-low_level_programming">
   <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
@@ -70,9 +73,16 @@ And yes I am not the person on the profile
 <a href="https://stackoverflow.com/users/20922547/natnael-bizuneh" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
+<br>  
+<br><br>  
+<br>
+**:zap: GitHub Profile Stats**
+<p align="center">
+<a href="https://github.com/nattyxo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrnazu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrnazu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <a href="https://www.tiktok.com/@ahadu_tech_official">
-  <img align="left" alt="Tiktok" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-tiktok-6343399-5221068.png?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</p>
 </div>  
   
 <br>  
