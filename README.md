@@ -19,6 +19,10 @@ And yes I am not the person on the profile
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
 
+<a href="https://github.com/NattyXO/Tic-Tac-Toe-Offline-Game-For-ALX">
+  <img align="left" alt="Java" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-9294874-7578017.png" />
+</a>
+
 <a href="https://www.w3.org/html/">
   <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
