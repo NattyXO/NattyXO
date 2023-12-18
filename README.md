@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://github.com/NattyXO/Scientific-calculator">
-  <img align="left" alt="Visual Basic" width="50px" src="https://w7.pngwing.com/pngs/386/344/png-transparent-microsoft-visual-basic-2005-visual-basic-net-microsoft-visual-studio-microsoft-purple-blue-text-thumbnail.png" />
+  <img align="left" alt="Visual Basic" width="50px" src="https://r7.pngwing.com/path/386/344/981/microsoft-visual-basic-2005-visual-basic-net-microsoft-visual-studio-microsoft-096771a7037f5ab907d5e10dce7f3cde.png" />
 </a>
 
 <a href="https://github.com/NattyXO/Webstack---Portfolio-Project">
