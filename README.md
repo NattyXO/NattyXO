@@ -30,6 +30,11 @@
 <a href="https://github.com/NattyXO/Tic-Tac-Toe-Offline-Game-For-ALX">
   <img align="left" alt="Java" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-9294874-7578017.png" />
 </a>
+
+<a href="https://github.com/NattyXO/Scientific-calculator">
+  <img align="left" alt="Visual Basic" width="50px" src="https://www.flaticon.com/de/download/icon/919844?icon_id=919844&author=164&team=164&keyword=visual+basic&pack=919824&style=1&style_id=133&format=png&color=%23000000&colored=2&size=512&selection=1&type=standard&token=03AFcWeA4qMLzLrHwBUUAT4OKcttGTBSIMEx6kScvzAXOGR_yDIF46JH6LwOWyRrnbQ3Zu-CMUdyaE3Av2ULNVCQM0kXv3GW0JBM8TgJpNLz90kMmv1nXBs4VKIaWxhuH90beSJCdecBNgvQwsTMglBHzBHrgObbihmwTcbwapqvgxPVF1GyPBQZtifkn-vswhfVNw6S60HFX8NxTyatguqO9S0cvNAfTkWy_IHxqG9FO2FI6k5JuNmunNw5rNwHcFGvsN5nCWgGl9YRgO0ktuQivnjrPWZFOgZNN0IBoyXDjxVLVFaEWa1LAjqp-oDV3sk5sRTtlfHiYBF7ScDT_xU8rYjeyFYEIMsG2KFEjcdEydWxk5inohDT_qTW7iPg9Ijd1mnNK_fAZy2ntfVvWXacbKVZFm9DzFU085MitBQdg9tB2E5vezZuYvJWMyac1ujDJc_FNL8h7qzsARQECpxtbp9EmSRTnAtz2_fXP5HVggZjlnE-B8Xw3B7SceQF9MBd3j2RCcKBQ2hKchhBmyCoU1qb1nGrbKqO0IPXu_tjIQve7vZBAV2dpV1RYcZ4Nt7HnImP6aDIXitX6GKQe7LL2NVPHeIM-nUiQTzoArtk1HJuMlGFQ9Jtye97iPMyX6kWn8bLhL0eWRyWgVf0EzvNc9uZNB_nV52ik9RmHLUKTiKoeNiFRD86cDKBlXjNFx9y2LfSJyjzr-m2ksUszmbutseFkMbfAj6JzStWuH_EI2yBZ45zZL_BJ32A4A9bka3QpJIIDCS-yp5On76LEz11W6j5RZQMbwyf..." />
+</a>
+
 <a href="https://github.com/NattyXO/Webstack---Portfolio-Project">
   <img align="left" alt="PHP" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-php-9294883-7578026.png" />
 </a>
