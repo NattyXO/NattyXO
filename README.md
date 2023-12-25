@@ -91,7 +91,7 @@
 </a>
 </p>
 </div>  
-  
 <br>  
-<br>
+<div style="text-align: center;">
 <img src="https://komarev.com/ghpvc/?username=nattyxo" alt="nattyxo"/>
+ </div>
