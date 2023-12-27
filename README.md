@@ -38,6 +38,15 @@
 <a href="https://github.com/NattyXO/Webstack---Portfolio-Project">
   <img align="left" alt="PHP" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-php-9294883-7578026.png" />
 </a>
+
+<a href="https://github.com/NattyXO/Webstack---Portfolio-Project">
+  <img align="left" alt="Laravel" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-laravel-framework-logo-6563587-5453023.png" />
+</a>
+
+<a href="https://github.com/NattyXO/Webstack---Portfolio-Project">
+  <img align="left" alt="Blade" width="50px" src="https://avatars.githubusercontent.com/u/87367346?s=200&v=4" />
+</a>
+
 <a href="https://github.com/NattyXO/AirBnB_clone_v3">
   <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
