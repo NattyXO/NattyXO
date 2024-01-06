@@ -26,6 +26,10 @@
 <a href="https://github.com/NattyXO/alx-higher_level_programming">
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
+</a>
+<a href="">
+  <img align="left" alt="Xamarin" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-xamarin-9294857-7578000.png" />
+</a>
 
 <a href="https://github.com/NattyXO/Barcode-QR-Generator">
   <img align="left" alt=".NET" width="50px" src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1175177.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwNDc1ODQwMCwicSI6bnVsbCwiaWF0IjoxNzA0NTQ5ODE1fQ__.88c4b5aa4bacbc47fb027f5c7c0fa37c05c90633e1fbe5fa9015304db65af965" />
