@@ -27,6 +27,10 @@
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
 
+<a href="https://github.com/NattyXO/Barcode-QR-Generator">
+  <img align="left" alt=".NET" width="50px" src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1175179.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwNDc1ODQwMCwicSI6bnVsbCwiaWF0IjoxNzA0NTQ5NDcxfQ__.e30b12f578fb34da2c09eef8a792fcbd1deadbc84937a90d35e54598065034a6" />
+</a>
+
 <a href="https://github.com/NattyXO/Tic-Tac-Toe-Offline-Game">
   <img align="left" alt="Java" width="50px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-9294874-7578017.png" />
 </a>
