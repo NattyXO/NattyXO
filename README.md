@@ -67,7 +67,7 @@
   <img align="left" alt="Visual Studio" width="50px" height="50px" src="https://venturebeat.com/wp-content/uploads/2019/11/visual-studio-logo.jpeg" />
 </a>
 <a href="">
-  <img align="left" alt="Unity" width="50px" height="50px" src="https://download.services.iconscout.com/download?name=unity&download=1&url=https%3A%2F%2Fd3sxshmncs10te.cloudfront.net%2Ficon%2Ffree%2Fpng-512%2F4406754.png" />
+  <img align="left" alt="Unity" width="50px" height="50px" src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/4406754.svg" />
 </a>
 <br>
 <br>
