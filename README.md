@@ -63,7 +63,12 @@
 <a href="">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
-
+<a href="https://github.com/NattyXO/Mega-Copy">
+  <img align="left" alt="Visual Studio" width="50px" height="50px" src="https://venturebeat.com/wp-content/uploads/2019/11/visual-studio-logo.jpeg" />
+</a>
+<a href="">
+  <img align="left" alt="Unity" width="50px" height="50px" src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png" />
+</a>
 <br>
 <br>
 <br>
