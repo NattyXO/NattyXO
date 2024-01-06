@@ -58,6 +58,7 @@
 <a href="https://github.com/NattyXO/AirBnB_clone_v3">
   <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
+<br>
 <a href="https://github.com/NattyXO/AirBnB_clone_v3">
   <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
@@ -77,6 +78,8 @@
 <a href="">
   <img align="left" alt="Unity" width="50px" height="50px" src="https://converter.services.iconscout.com/?url=https%3A%2F%2Fs3.amazonaws.com%2Fimg-iconscout-54a2331%2Ficon-editor%2F2024-01-06%2Fb5d0b956-182f-36d6-a1c1-94b9450aa308.svg" />
 </a>
+<br>
+<br>
 <br>
 <br>
 <br>
