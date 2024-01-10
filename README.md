@@ -96,12 +96,8 @@
 <br>
 <br>
 <br>
-<div align="right">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nattyxo" alt="GitHub Streak" /></a>
-</div>
-
 <!-- Social icons section -->
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/@AhaduTech"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
@@ -124,7 +120,10 @@
 <a href="https://stackoverflow.com/users/20922547/natnael-bizuneh" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-<br>  
+<br> 
+  <div align="left">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nattyxo" alt="GitHub Streak" /></a>
+</div>
 <br><br>  
 <br>
 <br>
