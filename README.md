@@ -96,23 +96,20 @@
 <br>
 <br>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nattyxo)](https://git.io/streak-stats)
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nattyxo" alt="GitHub Streak" /></a>
 <br>
-
+  <!-- Social icons section -->
 <div align="center">Connect with me</div>  
 <div align="center">
-<a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-
-</a>
-<a href="https://www.youtube.com/c/AhaduTech" target="_blank">
-<img src=https://img.shields.io/youtube/channel/subscribers/UCZ0kLcM30JbqMDzqjjdRibg?style=social alt=twitter style="margin-bottom: 5px;" />
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/c/AhaduTech"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.instagram.com/ahadu_tech/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://stackoverflow.com/users/20922547/natnael-bizuneh" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
