@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://github.com/NattyXO/Barcode-QR-Generator">
-  <img align="left" alt=".NET" width="50px" src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/1175177.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwNDc1ODQwMCwicSI6bnVsbCwiaWF0IjoxNzA0NTQ5ODE1fQ__.88c4b5aa4bacbc47fb027f5c7c0fa37c05c90633e1fbe5fa9015304db65af965" />
+  <img align="left" alt=".NET" width="50px" src="https://skillicons.dev/icons?i=dotnet" />
 </a>
 
 <a href="https://github.com/NattyXO/Tic-Tac-Toe-Offline-Game">
@@ -72,8 +72,12 @@
 <a href="">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 <a href="https://github.com/NattyXO/Mega-Copy">
-  <img align="left" alt="Visual Studio" width="50px" height="50px" src="https://skillicons.dev/icons?i=visualstudio,androidstudio,dotnet,figma,linux,postman" />
+  <img align="left" alt="Visual Studio" width="50px" height="50px" src="https://skillicons.dev/icons?i=visualstudio" />
 </a>
 <a href="">
   <img align="left" alt="Unity" width="50px" height="50px" src="https://skillicons.dev/icons?i=unity" />
