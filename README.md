@@ -78,8 +78,8 @@
 <a href="">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
-<a style="padding-top: 1000px;" href="https://github.com/NattyXO/Mega-Copy">
-  <img align="left" alt="androidstudio" width="50px" height="50px" src="https://skillicons.dev/icons?i=androidstudio" />
+<a href="https://github.com/NattyXO/Mega-Copy">
+  <img style="padding-top: 1000px;" align="left" alt="androidstudio" width="50px" height="50px" src="https://skillicons.dev/icons?i=androidstudio" />
 </a>
 <a href="https://github.com/NattyXO/Mega-Copy">
   <img align="left" alt="figma" width="50px" height="50px" src="https://skillicons.dev/icons?i=figma" />
