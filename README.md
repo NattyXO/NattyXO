@@ -73,10 +73,10 @@
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
 <a href="https://github.com/NattyXO/Mega-Copy">
-  <img align="left" alt="Visual Studio" width="50px" height="50px" src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/226058.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTcwNDc1ODQwMCwicSI6bnVsbCwiaWF0IjoxNzA0NTQ5MjE4fQ__.852a580295237e0f6a17acde67e95c949b337a1d302729fad415df433df6d2b0" />
+  <img align="left" alt="Visual Studio" width="50px" height="50px" src="https://skillicons.dev/icons?i=visualstudio,androidstudio,dotnet,figma,linux,postman" />
 </a>
 <a href="">
-  <img align="left" alt="Unity" width="50px" height="50px" src="https://converter.services.iconscout.com/?url=https%3A%2F%2Fs3.amazonaws.com%2Fimg-iconscout-54a2331%2Ficon-editor%2F2024-01-06%2Fb5d0b956-182f-36d6-a1c1-94b9450aa308.svg" />
+  <img align="left" alt="Unity" width="50px" height="50px" src="https://skillicons.dev/icons?i=unity" />
 </a>
 <br>
 <br>
