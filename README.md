@@ -13,7 +13,7 @@
 </div>
 
 ### Languages and Tools
-
+<div style="padding-bottom: 20px;">
 <a href="https://github.com/NattyXO/alx-low_level_programming">
   <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 </a>
@@ -90,6 +90,7 @@
 <a href="">
   <img align="left" alt="Unity" width="50px" height="50px" src="https://skillicons.dev/icons?i=unity" />
 </a>
+</div>
 <br>
 <br>
 <br>
@@ -106,7 +107,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@AhaduTech"><img width="32px" alt="instagram" title="Instagram" src="https://i.postimg.cc/fLRvzQhB/icons8-instagram-500.png"/></a>
+  <a href="https://www.youtube.com/@AhaduTech"><img width="32px" alt="Instagram" title="Instagram" src="https://i.postimg.cc/fLRvzQhB/icons8-instagram-500.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/NattyXO"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
@@ -116,6 +117,8 @@
 <p align="center">
  <a href="https://www.youtube.com/@AhaduTech?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/@AhaduTech">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/NattyXO?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nattyxo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/NattyXO?tab=followers">
