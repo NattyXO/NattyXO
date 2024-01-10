@@ -96,7 +96,7 @@
 <br>
 <br>
 <br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NattyXO" alt="NattyXO" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nattyxo" alt="GitHub Streak" /></a>
 <br>
 
 <div align="center">Connect with me</div>  
