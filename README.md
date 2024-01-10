@@ -13,7 +13,7 @@
 </div>
 
 ### Languages and Tools
-<div style="padding-bottom: 20px;">
+<div style="padding-top: 10px; padding-bottom: 20px; padding-left: 5px; padding-right: 15px;">
 <a href="https://github.com/NattyXO/alx-low_level_programming">
   <img align="left" alt="C" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 </a>
