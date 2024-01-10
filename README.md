@@ -130,7 +130,7 @@
   <a href="https://github.com/NattyXO?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nattyxo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/20922547/natnael-bizuneh" target="_blank">
-<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=Visitors&logoColor=white" alt=Visitors style="margin-bottom: 5px;" />
+<img src="https://komarev.com/ghpvc/?username=nattyxo&style=for-the-badge&logo=Visitors&logoColor=white" alt=Visitors style="margin-bottom: 5px;" />
 
 <a href="https://stackoverflow.com/users/20922547/natnael-bizuneh" target="_blank">
 <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=Visitors&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
