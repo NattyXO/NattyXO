@@ -113,7 +113,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@AhaduTech"><img width="32px" alt="Instagram" title="Instagram" src="https://i.postimg.cc/fLRvzQhB/icons8-instagram-500.png"/></a>
+  <a href="https://www.instagram.com/ahadu_tech/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.postimg.cc/fLRvzQhB/icons8-instagram-500.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://stackoverflow.com/users/20922547/natnael-bizuneh"><img width="32px" alt="StackOverFlow" title="Stack Overflow" src="https://i.postimg.cc/90FnWLxF/plain-Converter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/NattyXO"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
@@ -131,9 +133,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nattyxo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="" target="_blank">
 <img title="GitHub profile views" src="https://komarev.com/ghpvc/?username=nattyxo&style=for-the-badge&logo=Visitors&logoColor=white" alt=Visitors style="margin-bottom: 5px;" />
-<a href="https://stackoverflow.com/users/20922547/natnael-bizuneh" target="_blank">
-<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=Visitors&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
 <br> 
   <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nattyxo" alt="GitHub Streak" /></a>
