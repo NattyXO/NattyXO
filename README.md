@@ -96,8 +96,10 @@
 <br>
 <br>
 <br>
+<div align="right">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nattyxo" alt="GitHub Streak" /></a>
+</div>
 
-<a align ="right" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nattyxo" alt="GitHub Streak" /></a>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/@AhaduTech"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -108,7 +110,6 @@
 </p>
 <br>
   <!-- Social icons section -->
-<div align="center">Connect with me</div>  
 <div align="center">
 <p align="center">
  <a href="https://www.youtube.com/@AhaduTech?sub_confirmation=1">
