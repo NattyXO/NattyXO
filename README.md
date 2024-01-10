@@ -133,7 +133,7 @@
 <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=Visitors&logoColor=white" alt=Visitors style="margin-bottom: 5px;" />
 
 <a href="https://stackoverflow.com/users/20922547/natnael-bizuneh" target="_blank">
-<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?" alt=stackoverflow style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=Visitors&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 <br> 
   <div align="center">
@@ -151,4 +151,4 @@
 </p>
 </div>  
 <br>  
-<center><img src="https://komarev.com/ghpvc/?username=nattyxo" alt="nattyxo"/></center>
+<center><img src="https://komarev.com/ghpvc/?username=nattyxo&style=for-the-badge&logo=Visitors&logoColor=white" alt="nattyxo"/></center>
