@@ -7,6 +7,7 @@
 <br>
 - 🤝 I’m available for Freelancing | Project | Startup.
 <br>
+<br>
 <!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/nattyxo/">
