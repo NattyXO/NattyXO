@@ -104,8 +104,6 @@
 <p align="center">
   <a href="https://www.youtube.com/@AhaduTech"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/ahadu_tech/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/natnael-bizuneh-zenebe/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/NattyXO"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
