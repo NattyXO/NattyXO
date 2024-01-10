@@ -79,18 +79,18 @@
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
 <a href="https://github.com/NattyXO/Mega-Copy">
-  <img style="padding-top: 1000px;" align="left" alt="androidstudio" width="50px" height="50px" src="https://skillicons.dev/icons?i=androidstudio" />
+  <img align="left" alt="androidstudio" width="50px" height="50px" src="https://skillicons.dev/icons?i=androidstudio" />
 </a>
-<a href="https://github.com/NattyXO/Mega-Copy">
+<a href="https://github.com/NattyXO/Tic-Tac-Toe-Offline-Game">
   <img align="left" alt="figma" width="50px" height="50px" src="https://skillicons.dev/icons?i=figma" />
 </a>
-<a href="https://github.com/NattyXO/Mega-Copy">
+<a href="https://github.com/NattyXO/alx-pre_course">
   <img align="left" alt="linux" width="50px" height="50px" src="https://skillicons.dev/icons?i=linux" />
 </a>
-<a href="https://github.com/NattyXO/Mega-Copy">
+<a href="https://github.com/NattyXO/Webstack---Portfolio-Project">
   <img align="left" alt="postman" width="50px" height="50px" src="https://skillicons.dev/icons?i=postman" />
 </a>
-<a href="https://github.com/NattyXO/Mega-Copy">
+<a href="https://github.com/NattyXO/Color-Picker">
   <img align="left" alt="Visual Studio" width="50px" height="50px" src="https://skillicons.dev/icons?i=visualstudio" />
 </a>
 <a href="">
