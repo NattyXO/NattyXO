@@ -72,10 +72,18 @@
 <a href="">
   <img align="left" alt="mysql" width="50px" height="50px" src="https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg" />
 </a>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+<a href="https://github.com/NattyXO/Mega-Copy">
+  <img align="left" alt="androidstudio" width="50px" height="50px" src="https://skillicons.dev/icons?i=androidstudio" />
+</a>
+<a href="https://github.com/NattyXO/Mega-Copy">
+  <img align="left" alt="figma" width="50px" height="50px" src="https://skillicons.dev/icons?i=figma" />
+</a>
+<a href="https://github.com/NattyXO/Mega-Copy">
+  <img align="left" alt="linux" width="50px" height="50px" src="https://skillicons.dev/icons?i=linux" />
+</a>
+<a href="https://github.com/NattyXO/Mega-Copy">
+  <img align="left" alt="postman" width="50px" height="50px" src="https://skillicons.dev/icons?i=postman" />
+</a>
 <a href="https://github.com/NattyXO/Mega-Copy">
   <img align="left" alt="Visual Studio" width="50px" height="50px" src="https://skillicons.dev/icons?i=visualstudio" />
 </a>
@@ -88,7 +96,7 @@
 <br>
 <br>
 <br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NattyXO&" alt="NattyXO" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NattyXO" alt="NattyXO" /></p>
 <br>
 
 <div align="center">Connect with me</div>  
