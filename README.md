@@ -7,6 +7,12 @@
 <br>
 - 🤝 I’m available for Freelancing | Project | Startup.
 
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="https://stars.github.com/profiles/nattyxo/">
+    <img src="https://github.com/nattyxo/nattyxo/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
+
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake"/></a>
