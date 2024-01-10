@@ -121,13 +121,11 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 <br> 
-  <div align="left">
+  <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nattyxo" alt="GitHub Streak" /></a>
 </div>
-<br><br>  
 <br>
-<br>
-
+<br>  
 **:zap: GitHub Profile Stats**
 <p align="center">
 <a href="https://github.com/nattyxo">
