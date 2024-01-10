@@ -96,6 +96,10 @@
 <br>
 <br>
 <br>
+<br> 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+With+Me..." alt="Typing SVG" /></a>
+</div>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/@AhaduTech"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -126,6 +130,7 @@
 </div>
 <br>
 <br>  
+  
 **:zap: GitHub Profile Stats**
 <p align="center">
 <a href="https://github.com/nattyxo">
