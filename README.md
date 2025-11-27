@@ -140,7 +140,6 @@
 <img title="GitHub profile views" src="https://komarev.com/ghpvc/?username=nattyxo&style=for-the-badge&logo=Visitors&logoColor=white" alt=Visitors style="margin-bottom: 5px;" />
 <br> 
   <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyxo" alt="GitHub Streak" /></a>
 </div>
 
