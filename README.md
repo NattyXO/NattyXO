@@ -13,15 +13,11 @@
   <a href="https://stars.github.com/profiles/nattyxo/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake"/></a>
-</div>
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 <div align="center">
-  <a href="https://1999azzar.github.io/nattyxo/" target="_blank">
-    <img src="/resources/grid-snake.svg" alt="Natty Logo."
+  <a href="https://nattyxo.github.io/nattyxo/" target="_blank">
+    <img src="grid-snake.svg" alt="Natty Logo."
          style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
   </a>
 </div>
