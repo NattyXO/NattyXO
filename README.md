@@ -17,6 +17,16 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake"/></a>
 </div>
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
+
+<div align="center">
+  <a href="https://1999azzar.github.io/nattyxo/" target="_blank">
+    <img src="/resources/grid-snake.svg" alt="Natty Logo."
+         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+  </a>
+</div>
+
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
 
 ### Languages and Tools
 <div style="padding-top: 10px; padding-bottom: 20px; padding-left: 5px; padding-right: 15px;">
@@ -134,6 +144,7 @@
 <img title="GitHub profile views" src="https://komarev.com/ghpvc/?username=nattyxo&style=for-the-badge&logo=Visitors&logoColor=white" alt=Visitors style="margin-bottom: 5px;" />
 <br> 
   <div align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyxo" alt="GitHub Streak" /></a>
 </div>
 
